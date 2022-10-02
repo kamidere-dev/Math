@@ -8,6 +8,7 @@ namespace Euclidean_Algorithm
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Euclidean Algorithm testing");
+            Console.WriteLine(Euclidean.Random());
         }
     }
 }

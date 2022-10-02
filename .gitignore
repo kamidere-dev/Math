@@ -1,0 +1,7 @@
+
+Euclidean Algorithm/bin/Debug/netcoreapp3.1/Euclidean Algorithm.exe
+*.dll
+.vs/Euclidean Algorithm/v17/.suo
+*.vsidx
+*.exe
+Euclidean Algorithm/obj/Debug/netcoreapp3.1/_IsIncrementalBuild
