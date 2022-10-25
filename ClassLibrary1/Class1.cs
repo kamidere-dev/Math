@@ -15,7 +15,27 @@ namespace ClassLibrary1
 
         private void refresh()
         {
-            
+            int[] nprimes = n.PrimeFactorization();
+            int[] dprimes = d.PrimeFactorization();
+            int p = dprimes.Length;
+            if (dprimes.Length < nprimes.Length)
+            {
+                p = nprimes.Length;
+            }
+            int[] newprimes = new int[p];
+            int i = 0;
+            while (i < nprimes.Length && i < dprimes.Length)
+            {
+                if (i <= 1)
+                {
+
+                }
+                else
+                {
+                    nprimes
+                }
+                i++;
+            }
         }
 
         public Rational(Zint n, Zint d)
