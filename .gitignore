@@ -9,3 +9,5 @@ Euclidean Algorithm/obj/Debug/netcoreapp3.1/_IsIncrementalBuild
 *.v2
 *.lock
 .vs/Math Operations/v17/.suo
+*.props
+*.pdb

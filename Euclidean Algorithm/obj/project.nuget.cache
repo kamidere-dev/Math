@@ -1,18 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vrC903xFyVpbRKqa1pltUXkyMcIfbA7SGkGJAedICCHyG8RAhIWg2aRHiUR4nUjwIY/kK0FBVgHfD/J+PVwbjA==",
-  "success": false,
+  "dgSpecHash": "CHoaltnQRgabVWkm5f8lBFsPvPzwHyIKoAnnsbGxN5Y0XWdI2jYbYDjvwMCMbNRbJQ81LYmxSt7quPB2jC7TBg==",
+  "success": true,
   "projectFilePath": "C:\\Users\\imman\\eclipse-workspace\\Math\\Euclidean Algorithm\\Euclidean Algorithm.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1201",
-      "level": "Error",
-      "message": "Project Numbers is not compatible with netcoreapp3.1 (.NETCoreApp,Version=v3.1). Project Numbers supports: net6.0 (.NETCoreApp,Version=v6.0)",
-      "libraryId": "Numbers",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  "logs": []
 }

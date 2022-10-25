@@ -1,0 +1,10 @@
+C:\Users\imman\eclipse-workspace\Math\ClassLibrary1\bin\Debug\netcoreapp3.1\Math.deps.json
+C:\Users\imman\eclipse-workspace\Math\ClassLibrary1\bin\Debug\netcoreapp3.1\Math.dll
+C:\Users\imman\eclipse-workspace\Math\ClassLibrary1\bin\Debug\netcoreapp3.1\Math.pdb
+C:\Users\imman\eclipse-workspace\Math\ClassLibrary1\obj\Debug\netcoreapp3.1\Math.csproj.AssemblyReference.cache
+C:\Users\imman\eclipse-workspace\Math\ClassLibrary1\obj\Debug\netcoreapp3.1\Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imman\eclipse-workspace\Math\ClassLibrary1\obj\Debug\netcoreapp3.1\Math.AssemblyInfoInputs.cache
+C:\Users\imman\eclipse-workspace\Math\ClassLibrary1\obj\Debug\netcoreapp3.1\Math.AssemblyInfo.cs
+C:\Users\imman\eclipse-workspace\Math\ClassLibrary1\obj\Debug\netcoreapp3.1\Math.csproj.CoreCompileInputs.cache
+C:\Users\imman\eclipse-workspace\Math\ClassLibrary1\obj\Debug\netcoreapp3.1\Math.dll
+C:\Users\imman\eclipse-workspace\Math\ClassLibrary1\obj\Debug\netcoreapp3.1\Math.pdb

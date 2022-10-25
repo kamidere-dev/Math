@@ -4,7 +4,7 @@
     ".NETCoreApp,Version=v3.1": {
       "Numbers/1.0.0": {
         "type": "project",
-        "framework": "Unsupported,Version=v0.0",
+        "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
           "bin/placeholder/Numbers.dll": {}
         },
@@ -17,8 +17,8 @@
   "libraries": {
     "Numbers/1.0.0": {
       "type": "project",
-      "path": "../Numbers/Numbers.csproj",
-      "msbuildProject": "../Numbers/Numbers.csproj"
+      "path": "../ClassLibrary1/Numbers.csproj",
+      "msbuildProject": "../ClassLibrary1/Numbers.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -53,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\imman\\eclipse-workspace\\Math\\Numbers\\Numbers.csproj": {
-              "projectPath": "C:\\Users\\imman\\eclipse-workspace\\Math\\Numbers\\Numbers.csproj"
+            "C:\\Users\\imman\\eclipse-workspace\\Math\\ClassLibrary1\\Numbers.csproj": {
+              "projectPath": "C:\\Users\\imman\\eclipse-workspace\\Math\\ClassLibrary1\\Numbers.csproj"
             }
           }
         }
@@ -87,16 +87,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1201",
-      "level": "Error",
-      "message": "Project Numbers is not compatible with netcoreapp3.1 (.NETCoreApp,Version=v3.1). Project Numbers supports: net6.0 (.NETCoreApp,Version=v6.0)",
-      "libraryId": "Numbers",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  }
 }

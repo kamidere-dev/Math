@@ -1,5 +1,6 @@
-﻿using System;
-using Numbers;
+﻿using ClassLibrary1;
+using System;
+//using Numbers;
 
 namespace Euclidean_Algorithm
 {
@@ -13,7 +14,7 @@ namespace Euclidean_Algorithm
             //Console.WriteLine("Euclidean Algorithm testing");
             //Console.WriteLine(Euclidean.Random());
             Console.WriteLine(Questions.q1());
-            Numbers.Rational r = Numbers.Rational.Random();
+            Rational r = Rational.Random();
             Console.WriteLine(r.ToString());
         }
     }

@@ -4,11 +4,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Euclidean Algorithm", "Euclidean Algorithm\Euclidean Algorithm.csproj", "{F6BBC65E-DC36-434B-A8F9-2EE3A04F11B7}"
-	ProjectSection(ProjectDependencies) = postProject
-		{12693274-6BFE-439E-9232-BBCA15EA6FB2} = {12693274-6BFE-439E-9232-BBCA15EA6FB2}
-	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers", "Numbers\Numbers.csproj", "{12693274-6BFE-439E-9232-BBCA15EA6FB2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numbers", "ClassLibrary1\Numbers.csproj", "{93990B9A-4D35-435E-ADE0-D9C6F693068C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,10 +17,10 @@ Global
 		{F6BBC65E-DC36-434B-A8F9-2EE3A04F11B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6BBC65E-DC36-434B-A8F9-2EE3A04F11B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6BBC65E-DC36-434B-A8F9-2EE3A04F11B7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{12693274-6BFE-439E-9232-BBCA15EA6FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{12693274-6BFE-439E-9232-BBCA15EA6FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{12693274-6BFE-439E-9232-BBCA15EA6FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{12693274-6BFE-439E-9232-BBCA15EA6FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93990B9A-4D35-435E-ADE0-D9C6F693068C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93990B9A-4D35-435E-ADE0-D9C6F693068C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93990B9A-4D35-435E-ADE0-D9C6F693068C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93990B9A-4D35-435E-ADE0-D9C6F693068C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
