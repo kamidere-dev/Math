@@ -13,7 +13,7 @@ namespace Euclidean_Algorithm
             Console.WriteLine("Hello World!");
             //Console.WriteLine("Euclidean Algorithm testing");
             //Console.WriteLine(Euclidean.Random());
-            Console.WriteLine(Questions.q1());
+            //Console.WriteLine(Questions.q1());
             Rational r = Rational.Random();
             Console.WriteLine(r.ToString());
         }

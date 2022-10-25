@@ -7,6 +7,17 @@ namespace ClassLibrary1
         private Zint n;
         private Zint d;
 
+        public override string ToString()
+        {
+            this.refresh();
+            return "" + n.ToString() + "/" + d.ToString();
+        }
+
+        private void refresh()
+        {
+            
+        }
+
         public Rational(Zint n, Zint d)
         {
             this.n = n;

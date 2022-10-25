@@ -18,3 +18,14 @@ C:\Users\imman\eclipse-workspace\Math\Euclidean Algorithm\obj\Debug\netcoreapp3.
 C:\Users\imman\eclipse-workspace\Math\Euclidean Algorithm\obj\Debug\netcoreapp3.1\Euclidean Algorithm.AssemblyInfo.cs
 C:\Users\imman\eclipse-workspace\Math\Euclidean Algorithm\obj\Debug\netcoreapp3.1\Euclidean Algorithm.csproj.CoreCompileInputs.cache
 C:\Users\imman\eclipse-workspace\Math\Euclidean Algorithm\obj\Debug\netcoreapp3.1\Euclidean Algorithm.pdb
+C:\Users\imman\eclipse-workspace\Math\Euclidean Algorithm\bin\Debug\netcoreapp3.1\Euclidean Algorithm.exe
+C:\Users\imman\eclipse-workspace\Math\Euclidean Algorithm\bin\Debug\netcoreapp3.1\Euclidean Algorithm.deps.json
+C:\Users\imman\eclipse-workspace\Math\Euclidean Algorithm\bin\Debug\netcoreapp3.1\Euclidean Algorithm.runtimeconfig.json
+C:\Users\imman\eclipse-workspace\Math\Euclidean Algorithm\bin\Debug\netcoreapp3.1\Euclidean Algorithm.runtimeconfig.dev.json
+C:\Users\imman\eclipse-workspace\Math\Euclidean Algorithm\bin\Debug\netcoreapp3.1\Euclidean Algorithm.dll
+C:\Users\imman\eclipse-workspace\Math\Euclidean Algorithm\bin\Debug\netcoreapp3.1\Euclidean Algorithm.pdb
+C:\Users\imman\eclipse-workspace\Math\Euclidean Algorithm\bin\Debug\netcoreapp3.1\Numbers.dll
+C:\Users\imman\eclipse-workspace\Math\Euclidean Algorithm\bin\Debug\netcoreapp3.1\Numbers.pdb
+C:\Users\imman\eclipse-workspace\Math\Euclidean Algorithm\obj\Debug\netcoreapp3.1\Euclidean Algorithm.csproj.CopyComplete
+C:\Users\imman\eclipse-workspace\Math\Euclidean Algorithm\obj\Debug\netcoreapp3.1\Euclidean Algorithm.dll
+C:\Users\imman\eclipse-workspace\Math\Euclidean Algorithm\obj\Debug\netcoreapp3.1\Euclidean Algorithm.genruntimeconfig.cache
