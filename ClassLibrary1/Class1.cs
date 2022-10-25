@@ -10,7 +10,7 @@ namespace ClassLibrary1
         public override string ToString()
         {
             this.refresh();
-            return "" + n.ToString() + "/" + d.ToString();
+            return "" + n.ToString() + " / " + d.ToString();
         }
 
         private void refresh()
@@ -29,7 +29,8 @@ namespace ClassLibrary1
             Zint n = Zint.Random();
             Zint d = Zint.RandomPositive();
             Rational r = new Rational(n, d);
-            throw new NotImplementedException();
+            return r;
+            //throw new NotImplementedException();
         }
 
         TypeCode IConvertible.GetTypeCode()

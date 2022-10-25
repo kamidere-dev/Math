@@ -14,3 +14,10 @@ Euclidean Algorithm/obj/Debug/netcoreapp3.1/_IsIncrementalBuild
 *.cache
 *.pdb
 .vs/Math Operations/v17/.suo
+*.cache
+Euclidean Algorithm/obj/Debug/netcoreapp3.1/Euclidean Algorithm.csproj.AssemblyReference.cache
+*.pdb
+Euclidean Algorithm/obj/Debug/netcoreapp3.1/Euclidean Algorithm.pdb
+Euclidean Algorithm/bin/Debug/netcoreapp3.1/Euclidean Algorithm.pdb
+.vs/Math Operations/v17/.suo
+.vs/Math Operations/v17/.suo
