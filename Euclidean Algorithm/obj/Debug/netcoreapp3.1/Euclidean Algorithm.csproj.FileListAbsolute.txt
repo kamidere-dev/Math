@@ -12,3 +12,9 @@ C:\Users\Immanuelle\Documents\GitHub\Euclidean Algorithm\Euclidean Algorithm\obj
 C:\Users\Immanuelle\Documents\GitHub\Euclidean Algorithm\Euclidean Algorithm\obj\Debug\netcoreapp3.1\Euclidean Algorithm.dll
 C:\Users\Immanuelle\Documents\GitHub\Euclidean Algorithm\Euclidean Algorithm\obj\Debug\netcoreapp3.1\Euclidean Algorithm.pdb
 C:\Users\Immanuelle\Documents\GitHub\Euclidean Algorithm\Euclidean Algorithm\obj\Debug\netcoreapp3.1\Euclidean Algorithm.genruntimeconfig.cache
+C:\Users\imman\eclipse-workspace\Math\Euclidean Algorithm\obj\Debug\netcoreapp3.1\Euclidean Algorithm.csproj.AssemblyReference.cache
+C:\Users\imman\eclipse-workspace\Math\Euclidean Algorithm\obj\Debug\netcoreapp3.1\Euclidean Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imman\eclipse-workspace\Math\Euclidean Algorithm\obj\Debug\netcoreapp3.1\Euclidean Algorithm.AssemblyInfoInputs.cache
+C:\Users\imman\eclipse-workspace\Math\Euclidean Algorithm\obj\Debug\netcoreapp3.1\Euclidean Algorithm.AssemblyInfo.cs
+C:\Users\imman\eclipse-workspace\Math\Euclidean Algorithm\obj\Debug\netcoreapp3.1\Euclidean Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\imman\eclipse-workspace\Math\Euclidean Algorithm\obj\Debug\netcoreapp3.1\Euclidean Algorithm.pdb

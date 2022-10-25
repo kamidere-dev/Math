@@ -6,4 +6,8 @@
     <RootNamespace>Euclidean_Algorithm</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Numbers\Numbers.csproj" />
+  </ItemGroup>
+
 </Project>
