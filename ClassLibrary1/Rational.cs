@@ -11,7 +11,8 @@ namespace ClassLibrary1
         public static Rational[] Count(int c)
         {
             List<Rational> rationals = new List<Rational>();
-            Rational r = new Rational(1, 1);
+            Rational r = new Rational(0, 1);
+            int i = 0;
             while (rationals.Count < c)
             {
 
