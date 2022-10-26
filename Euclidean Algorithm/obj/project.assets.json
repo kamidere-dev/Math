@@ -27,19 +27,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\imman\\.nuget\\packages\\": {}
+    "C:\\Users\\Immanuelle\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\imman\\eclipse-workspace\\Math\\Euclidean Algorithm\\Euclidean Algorithm.csproj",
+      "projectUniqueName": "C:\\Users\\Immanuelle\\Documents\\GitHub\\Euclidean Algorithm\\Euclidean Algorithm\\Euclidean Algorithm.csproj",
       "projectName": "Euclidean Algorithm",
-      "projectPath": "C:\\Users\\imman\\eclipse-workspace\\Math\\Euclidean Algorithm\\Euclidean Algorithm.csproj",
-      "packagesPath": "C:\\Users\\imman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\imman\\eclipse-workspace\\Math\\Euclidean Algorithm\\obj\\",
+      "projectPath": "C:\\Users\\Immanuelle\\Documents\\GitHub\\Euclidean Algorithm\\Euclidean Algorithm\\Euclidean Algorithm.csproj",
+      "packagesPath": "C:\\Users\\Immanuelle\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Immanuelle\\Documents\\GitHub\\Euclidean Algorithm\\Euclidean Algorithm\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\imman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Immanuelle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -47,14 +52,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\imman\\eclipse-workspace\\Math\\ClassLibrary1\\Numbers.csproj": {
-              "projectPath": "C:\\Users\\imman\\eclipse-workspace\\Math\\ClassLibrary1\\Numbers.csproj"
+            "C:\\Users\\Immanuelle\\Documents\\GitHub\\Euclidean Algorithm\\ClassLibrary1\\Numbers.csproj": {
+              "projectPath": "C:\\Users\\Immanuelle\\Documents\\GitHub\\Euclidean Algorithm\\ClassLibrary1\\Numbers.csproj"
             }
           }
         }
