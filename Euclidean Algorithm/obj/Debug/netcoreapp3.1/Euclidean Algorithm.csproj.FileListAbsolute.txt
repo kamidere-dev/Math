@@ -29,3 +29,6 @@ C:\Users\imman\eclipse-workspace\Math\Euclidean Algorithm\bin\Debug\netcoreapp3.
 C:\Users\imman\eclipse-workspace\Math\Euclidean Algorithm\obj\Debug\netcoreapp3.1\Euclidean Algorithm.csproj.CopyComplete
 C:\Users\imman\eclipse-workspace\Math\Euclidean Algorithm\obj\Debug\netcoreapp3.1\Euclidean Algorithm.dll
 C:\Users\imman\eclipse-workspace\Math\Euclidean Algorithm\obj\Debug\netcoreapp3.1\Euclidean Algorithm.genruntimeconfig.cache
+C:\Users\Immanuelle\Documents\GitHub\Euclidean Algorithm\Euclidean Algorithm\bin\Debug\netcoreapp3.1\Numbers.dll
+C:\Users\Immanuelle\Documents\GitHub\Euclidean Algorithm\Euclidean Algorithm\bin\Debug\netcoreapp3.1\Numbers.pdb
+C:\Users\Immanuelle\Documents\GitHub\Euclidean Algorithm\Euclidean Algorithm\obj\Debug\netcoreapp3.1\Euclidean Algorithm.csproj.CopyComplete

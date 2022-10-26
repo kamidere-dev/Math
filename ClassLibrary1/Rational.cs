@@ -1,11 +1,23 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace ClassLibrary1
 {
-    public class Rational : IConvertible
+    public struct Rational : IConvertible
     {
         private Zint n;
         private Zint d;
+
+        public static Rational[] Count(int c)
+        {
+            List<Rational> rationals = new List<Rational>();
+            Rational r = new Rational(1, 1);
+            while (rationals.Count < c)
+            {
+
+            }
+            return rationals.ToArray();
+        }
 
         public override string ToString()
         {
@@ -32,7 +44,7 @@ namespace ClassLibrary1
                 }
                 else
                 {
-                    nprimes
+                    //nprimes
                 }
                 i++;
             }
@@ -42,6 +54,12 @@ namespace ClassLibrary1
         {
             this.n = n;
             this.d = d;
+        }
+
+        public Rational(int v1, int v2) : this()
+        {
+            this.n = new Zint(v1);
+            this.d = new Zint(v2);
         }
 
         public static Rational Random()
