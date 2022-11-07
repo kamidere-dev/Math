@@ -12,10 +12,19 @@ namespace ClassLibrary1
         {
             List<Rational> rationals = new List<Rational>();
             Rational r = new Rational(0, 1);
-            int i = 0;
-            while (rationals.Count < c)
+            int max = 1;
+            if (c == 0)
             {
 
+            }
+            else
+            {
+                rationals.Add(r);
+            }
+            while (rationals.Count < c)
+            {
+                int min = -1 * max;
+                r = new Rational(max, 1); // 2 / 1
             }
             return rationals.ToArray();
         }
