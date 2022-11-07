@@ -11,11 +11,8 @@ namespace Euclidean_Algorithm
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            //Console.WriteLine("Euclidean Algorithm testing");
-            //Console.WriteLine(Euclidean.Random());
-            //Console.WriteLine(Questions.q1());
-            Rational r = Rational.Random();
-            Console.WriteLine(r.ToString());
+            //Rational r = Rational.Random();
+
         }
     }
 }

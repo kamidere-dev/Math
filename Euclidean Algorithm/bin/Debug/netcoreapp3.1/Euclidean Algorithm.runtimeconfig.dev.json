@@ -1,9 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Immanuelle\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Immanuelle\\.nuget\\packages",
-      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      "C:\\Users\\imman\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\imman\\.nuget\\packages"
     ]
   }
 }

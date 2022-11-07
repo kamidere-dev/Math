@@ -400,3 +400,5 @@ FodyWeavers.xsd
 *.editorconfig
 ClassLibrary1/obj/Debug/netcoreapp3.1/Numbers.GeneratedMSBuildEditorConfig.editorconfig
 Euclidean Algorithm/obj/Debug/netcoreapp3.1/Euclidean Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+*.cache
+*.json
